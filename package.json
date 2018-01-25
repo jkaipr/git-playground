@@ -1,0 +1,26 @@
+{
+  "name": "git-playground",
+  "version": "0.0.1",
+  "description": "Something to merge, rebase and fiddle around.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkaipr/git-playground.git"
+  },
+  "author": "Jiri Kaipr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkaipr/git-playground/issues"
+  },
+  "homepage": "https://github.com/jkaipr/git-playground#readme",
+  "dependencies": {
+    "ascii-art": "^1.4.2",
+    "canvas": "^1.6.9",
+    "dotenv": "^4.0.0",
+    "image-downloader": "^3.3.0",
+    "node-fetch": "^1.7.3"
+  }
+}
